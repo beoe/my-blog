@@ -22,7 +22,7 @@ theme = "beautifulhugo"
 
 [Author]
   name = "bernd"
-  website = "gitbuch.info"
+  website = "https://gitbuch.info/"
   email = "bernd@gitbuch.info"
   # facebook = "username"
   github = "git-buch"
