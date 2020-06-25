@@ -6,7 +6,7 @@ tags:
   - Work
   - Workshop
   - Offline
-image: /posts/2019-10-07/offline-workshop.jpg
+image: posts/2019-10-07/offline-workshop.jpg
 ---
 
 ### Lilongwe

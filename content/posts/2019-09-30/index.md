@@ -2,7 +2,7 @@
 title: "View Source Amsterdam"
 date: 2019-09-30T17:33:50+02:00
 draft: false
-image: /posts/2019-09-30/vs.jpg
+image: posts/2019-09-30/vs.jpg
 tags:
  - Konferenz
  - Work
