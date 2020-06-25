@@ -2,7 +2,7 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on My Blog</title>
-    <link>https://myblog.gitbuch.info/tags/</link>
+    <link>https://beoe.github.io/my-blog/tags/</link>
     <description>Recent content in Tags on My Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>de</language>
@@ -10,51 +10,51 @@
     <webMaster>bernd@gitbuch.info (bernd)</webMaster>
     <lastBuildDate>Mon, 07 Oct 2019 18:33:14 +0200</lastBuildDate>
     
-	<atom:link href="https://myblog.gitbuch.info/tags/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://beoe.github.io/my-blog/tags/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Offline</title>
-      <link>https://myblog.gitbuch.info/tags/offline/</link>
+      <link>https://beoe.github.io/my-blog/tags/offline/</link>
       <pubDate>Mon, 07 Oct 2019 18:33:14 +0200</pubDate>
       <author>bernd@gitbuch.info (bernd)</author>
-      <guid>https://myblog.gitbuch.info/tags/offline/</guid>
+      <guid>https://beoe.github.io/my-blog/tags/offline/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Work</title>
-      <link>https://myblog.gitbuch.info/tags/work/</link>
+      <link>https://beoe.github.io/my-blog/tags/work/</link>
       <pubDate>Mon, 07 Oct 2019 18:33:14 +0200</pubDate>
       <author>bernd@gitbuch.info (bernd)</author>
-      <guid>https://myblog.gitbuch.info/tags/work/</guid>
+      <guid>https://beoe.github.io/my-blog/tags/work/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Workshop</title>
-      <link>https://myblog.gitbuch.info/tags/workshop/</link>
+      <link>https://beoe.github.io/my-blog/tags/workshop/</link>
       <pubDate>Mon, 07 Oct 2019 18:33:14 +0200</pubDate>
       <author>bernd@gitbuch.info (bernd)</author>
-      <guid>https://myblog.gitbuch.info/tags/workshop/</guid>
+      <guid>https://beoe.github.io/my-blog/tags/workshop/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Konferenz</title>
-      <link>https://myblog.gitbuch.info/tags/konferenz/</link>
+      <link>https://beoe.github.io/my-blog/tags/konferenz/</link>
       <pubDate>Mon, 30 Sep 2019 17:33:50 +0200</pubDate>
       <author>bernd@gitbuch.info (bernd)</author>
-      <guid>https://myblog.gitbuch.info/tags/konferenz/</guid>
+      <guid>https://beoe.github.io/my-blog/tags/konferenz/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Messe</title>
-      <link>https://myblog.gitbuch.info/tags/messe/</link>
+      <link>https://beoe.github.io/my-blog/tags/messe/</link>
       <pubDate>Thu, 19 Sep 2019 18:23:01 +0200</pubDate>
       <author>bernd@gitbuch.info (bernd)</author>
-      <guid>https://myblog.gitbuch.info/tags/messe/</guid>
+      <guid>https://beoe.github.io/my-blog/tags/messe/</guid>
       <description></description>
     </item>
     

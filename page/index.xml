@@ -2,7 +2,7 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Pages on My Blog</title>
-    <link>https://myblog.gitbuch.info/page/</link>
+    <link>https://beoe.github.io/my-blog/page/</link>
     <description>Recent content in Pages on My Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>de</language>
@@ -10,15 +10,15 @@
     <webMaster>bernd@gitbuch.info (bernd)</webMaster>
     <lastBuildDate>Tue, 23 Jun 2020 18:57:39 +0200</lastBuildDate>
     
-	<atom:link href="https://myblog.gitbuch.info/page/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://beoe.github.io/my-blog/page/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>About</title>
-      <link>https://myblog.gitbuch.info/page/about/</link>
+      <link>https://beoe.github.io/my-blog/page/about/</link>
       <pubDate>Tue, 23 Jun 2020 18:57:39 +0200</pubDate>
       <author>bernd@gitbuch.info (bernd)</author>
-      <guid>https://myblog.gitbuch.info/page/about/</guid>
+      <guid>https://beoe.github.io/my-blog/page/about/</guid>
       <description>Erscheint: vorauss. im August 2020
 Umfang: ca. 350 Seiten
 ISBN: 978-3-8362-7186-8
