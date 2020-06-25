@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Workshop on My Blog</title>
+    <link>https://myblog.gitbuch.info/tags/workshop/</link>
+    <description>Recent content in Workshop on My Blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>de</language>
+    <managingEditor>bernd@gitbuch.info (bernd)</managingEditor>
+    <webMaster>bernd@gitbuch.info (bernd)</webMaster>
+    <lastBuildDate>Mon, 07 Oct 2019 18:33:14 +0200</lastBuildDate>
+    
+	<atom:link href="https://myblog.gitbuch.info/tags/workshop/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Offline Workshop Malawi</title>
+      <link>https://myblog.gitbuch.info/posts/2019-10-07/</link>
+      <pubDate>Mon, 07 Oct 2019 18:33:14 +0200</pubDate>
+      <author>bernd@gitbuch.info (bernd)</author>
+      <guid>https://myblog.gitbuch.info/posts/2019-10-07/</guid>
+      <description>Lilongwe Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer a sem vel neque sagittis condimentum non non ipsum. Integer est lacus, sodales nec venenatis sit amet, sagittis ac turpis. Maecenas vulputate tortor in purus ultrices, rutrum blandit ligula pulvinar. Etiam aliquet vulputate diam ornare suscipit. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. In ut elit nulla. Sed venenatis ligula a placerat fermentum. Donec quis nisl lorem.</description>
+    </item>
+    
+  </channel>
+</rss>
